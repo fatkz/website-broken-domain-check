@@ -1,0 +1,8 @@
+''  
+http://schema.org/webpage 
+https://news.google.com/?tab=wn 
+https://mail.google.com/mail/?tab=wm 
+https://drive.google.com/?tab=wo 
+https://www.google.com.tr/intl/tr/about/products?tab=wh 
+http://www.google.com.tr/history/optout?hl=tr 
+http://www.google.com.tr/intl/tr/services/ 
